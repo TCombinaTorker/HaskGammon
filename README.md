@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or suggestions, feel free to contact the project maintainer at [your-email@example.com](mailto:than@tuerkerhan.com).
+For questions or suggestions, feel free to contact the project maintainer at [than@tuerkerhan.com](mailto:than@tuerkerhan.com).
 
 ---
 
